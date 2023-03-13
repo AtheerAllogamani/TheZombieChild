@@ -1,4 +1,4 @@
-# TheZombieChild
+# The Zombie Child (Mini Game)
  This project is for advanced programming course using JavaFx
  it's a mini game with different 5 puzzles connected to a database for the users.
  ## Game preview
